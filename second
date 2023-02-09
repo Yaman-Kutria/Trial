@@ -1,3 +1,6 @@
 echo "What's your name?"
 read name
 echo "Hello " $name
+echo "Where do you live?"
+read city
+echo "do you like $city ?"
